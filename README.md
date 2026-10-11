@@ -1,4 +1,1 @@
-# e-project
-# e-project
-# e-project
-# e-project
+Clear Reflections Is a E commerce website for all kinds of mirrors.
